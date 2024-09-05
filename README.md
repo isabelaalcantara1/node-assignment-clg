@@ -6,7 +6,7 @@ Throughout this eleven-week course, the following topics will be covered. Each w
 
 - [X] **Introduction to Node.js**
 - [X] **Package Manager (NPM)**
-- [ ] **Advanced JS Concepts**
+- [X] **Advanced JS Concepts**
 - [ ] **Working with Web Servers and Frameworks**
 - [ ] **Event-Driven Programming**
 - [ ] **RESTful API**
