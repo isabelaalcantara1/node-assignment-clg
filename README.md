@@ -5,7 +5,7 @@ This repository contains all the assignments from the Node.js course run by [Cod
 Throughout this eleven-week course, the following topics will be covered. Each week, an assignment will be completed and uploaded for the tutor's review.
 
 - [X] **Introduction to Node.js**
-- [ ] **Package Manager (NPM)**
+- [X] **Package Manager (NPM)**
 - [ ] **Advanced JS Concepts**
 - [ ] **Working with Web Servers and Frameworks**
 - [ ] **Event-Driven Programming**
