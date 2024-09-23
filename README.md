@@ -8,7 +8,7 @@ Throughout this eleven-week course, the following topics will be covered. Each w
 - [X] **Package Manager (NPM)**
 - [X] **Advanced JS Concepts**
 - [X] **Working with Web Servers and Frameworks**
-- [ ] **Event-Driven Programming**
+- [X] **Event-Driven Programming**
 - [ ] **RESTful API**
 - [ ] **Introduction to Databases**
 - [ ] **Exploring Databases**
